@@ -1,4 +1,4 @@
-# OCTOPUS v.1 
+# OCTOPUS v. 1.0 
 A tool for estimating physical and chemical properties of organic molecular compounds
 
 Authors information:
