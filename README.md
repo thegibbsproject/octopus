@@ -3,9 +3,9 @@ A tool for estimating physical and chemical properties of organic molecular comp
 
 Authors information:
 
-Nathan Sombra Evangelista is Ph.D. student in Chemical Engineering at Federal University of Ceara (Fortaleza, Ceara, Brazil)
+Nathan Sombra Evangelista is a Ph.D. student in Chemical Engineering at Federal University of Ceara (Fortaleza, Ceara, Brazil)
 
-Frederico Ribeiro do Carmo is Adjunct Professor at Federal Rural University of the Semi-Arid (Angicos, Rio Grande do Norte, Brazil)
+Frederico Ribeiro do Carmo is an Adjunct Professor at Federal Rural University of the Semi-Arid (Angicos, Rio Grande do Norte, Brazil)
 
 Suggestions or bug reports should be addressed to: thegibbsproject@gmail.com
 
