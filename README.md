@@ -3,13 +3,13 @@ A tool for estimating physical and chemical properties of organic molecular comp
 
 Authors information:
 
-Nathan Sombra Evangelista is a Ph.D. student in Chemical Engineering at Federal University of Ceara (Fortaleza, Ceara, Brazil)
+Nathan Sombra Evangelista is a Ph.D. student in Chemical Engineering at the Federal University of Ceara (Fortaleza, Ceara, Brazil)
 
-Frederico Ribeiro do Carmo is an Adjunct Professor at Federal Rural University of the Semi-Arid (Angicos, Rio Grande do Norte, Brazil)
+Frederico Ribeiro do Carmo is an Adjunct Professor at the Federal Rural University of the Semi-Arid (Angicos, Rio Grande do Norte, Brazil)
 
 Suggestions or bug reports should be addressed to: thegibbsproject@gmail.com
 
-OCTOPUS is a useful tool for chemical engineers, chemists, physicists and others scientific professionals. Its simplicity of use makes it a powerful tool for teaching and learning about predictive methods for various physical and chemical properties of organic molecular compounds. Especially for methods based on the Corresponding States Principle and the Group Contribution concept.  The following properties can be estimated by OCTOPUS:
+OCTOPUS is a useful tool for chemical engineers, chemists, physicists and others scientific professionals. Its simplicity of use makes it a powerful tool for estimating various physical and chemical properties of organic molecular compounds. The following properties are covered in the latest version of OCTOPUS.
 
 - density of liquids
 - viscosity of gases
