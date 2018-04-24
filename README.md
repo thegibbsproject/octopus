@@ -23,6 +23,7 @@ OCTOPUS is a useful tool for chemical engineers, chemists, physicists and others
 - critical temperature
 - critical pressure
 - critical volume
+- acentric factor
 - surface tension
 - standard enthalpy of formation at 298 K
 - standard Gibbs energy of formation at 298 K
