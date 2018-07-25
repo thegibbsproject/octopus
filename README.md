@@ -1,5 +1,5 @@
 # OCTOPUS v. 1.0
-A tool for estimating physical and chemical properties of organic molecular compounds
+A tool for estimating physical and chemical properties of organic molecular compounds.
 
 Authors information:
 Nathan Sombra Evangelista is a Ph.D. student in Chemical Engineering at the Federal University of Ceara (Fortaleza, Ceara, Brazil)
